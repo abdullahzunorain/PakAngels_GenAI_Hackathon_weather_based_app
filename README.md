@@ -1,4 +1,4 @@
-### **Complete Description for the Weather-Based Outfit Suggestion App**
+### **Weather-Based Outfit Suggestion App**
 
 The **Weather-Based Outfit Suggestion App** is a personalized tool designed to help users pick the perfect outfit based on various factors such as local weather conditions, personal style, fabric preferences, time of day, and planned activities. By entering their location, users get daily, tailored outfit recommendations that simplify their morning routine and ensure they are dressed appropriately and comfortably.
 
