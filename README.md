@@ -19,6 +19,6 @@ The **Weather-Based Outfit Suggestion App** is a personalized tool designed to h
 
 ### **Group Members:**
 - **Abdullah Zunorain** (Team Lead & app developer)
-- **Wajiha Shah** (ppt designer and developer)
+- **Wajiha Shah** (ppt designer and app developer)
 - **Rehan Khan**
 - **Naeem Angaria**
