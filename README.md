@@ -1,5 +1,5 @@
 ---
-### 🌤️ Weather-Based Outfit Suggestion App
+# 🌤️ Weather-Based Outfit Suggestion App
 
 Get daily outfit recommendations tailored to the weather and your personal style! Whether it's a sunny morning or a chilly evening, this app helps you choose the perfect outfit based on location-specific weather data, your activity, and fabric preferences.
 
