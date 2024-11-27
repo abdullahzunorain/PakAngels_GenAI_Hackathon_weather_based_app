@@ -18,7 +18,7 @@ The **Weather-Based Outfit Suggestion App** is a personalized tool designed to h
 6. **Activity Selection:** Select your activity (e.g., work, exercise, casual outing) to ensure your outfit is both stylish and suitable for the occasion.
 
 ### **Group Members:**
-- **Abdullah Zunorain** (Team Lead & app developer)
+- **Abdullah Zunorain** (Team Leader & app developer)
 - **Wajiha Shah** (ppt designer and app developer)
 - **Rehan Khan**
 - **Naeem Angaria**
